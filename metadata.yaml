@@ -1,0 +1,29 @@
+_repo: The-Magazine-Style-Code_41289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Irvine, Leigh H. (Leigh Hadley)
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '41099'
+    url: http://www.gutenberg.org/2009/agents/41099
+description: ''
+gutenberg_issued: '2012-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41289'
+  lccn: 06042384
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Printing -- Style manuals'
+- !lcsh 'Authorship -- Style manuals'
+- !lcsh 'Journalism -- Style manuals'
+title: The Magazine Style-Code
+url: http://www.gutenberg.org/ebooks/41289
